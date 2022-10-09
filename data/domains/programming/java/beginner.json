@@ -48,5 +48,10 @@
         "title": "Java 8 repository",
         "link": "https://github.com/winterbe/java8-tutorial",
         "type": "docs"
+    },
+    {
+        "title": "Java by Code With Harry",
+        "link": "https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q",
+        "type": "docs"
     }
 ]
