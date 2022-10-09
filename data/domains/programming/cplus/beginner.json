@@ -18,5 +18,10 @@
         "title": "C++ resources",
          "link": "https://www.learncpp.com/",
          "type": "docs"
+    },
+     {
+        "title": "C++ resources",
+         "link": "https://www.geeksforgeeks.org/c-plus-plus/",
+         "type": "docs"
     }
 ]
